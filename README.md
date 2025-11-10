@@ -60,6 +60,4 @@ Create tables using pipes | and dashes -
 Escaping character with backslash \\ in the beggining:
 - \*not italic*
 
----
-
 - \*\*not bold\*\*
