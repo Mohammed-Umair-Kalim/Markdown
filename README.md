@@ -21,7 +21,7 @@ Ordered list:
 1. item with using (1.)
 
 Links:
-[ChatBot](https://www.chatgpt.com) with using []()
+[ChatBot](https://www.chatgpt.com) with using ([]())
 
 Blockquote:
 > This is a blockquote with using (>)
@@ -39,10 +39,10 @@ Hi There
 
 Code:
 - Inline Code:
-For example, to print "Hello, World!" in markdown, you can write `print("Hello, World!")` with single backticks (` `).
+For example, to print "Hello, World!" in markdown, you can write `print("Hello, World!")` with single backticks \`\`.
 
 - Code Block
-If you have a larger code snippet, you can use triple backticks(``` ```) to create a code block:
+If you have a larger code snippet, you can use triple backticks\``` \``` to create a code block:
 ```python
 def greet():
     print("Hello, World!")
@@ -57,6 +57,6 @@ Create tables using pipes | and dashes -
 | Row 1    | Data     | Data     |
 | Row 2    | Data     | Data     |
 
-Escaping character with (\):
+Escaping character with backslash\\:
 - \*not italic*
 - \**not bold**
