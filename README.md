@@ -61,6 +61,6 @@ Create tables using pipes | and dashes -
 
 Escaping character:
 
-- \*not italic\*
+- \*not italic*
 
-- \**not bold\**
+- \**not bold**
