@@ -1,39 +1,39 @@
 Headings:
-# Heading1 with using (#)
-## Heading2 with using (##)
-### Heading3 with using (###)
+# Heading1 with using \#
+## Heading2 with using \##
+### Heading3 with using \###
 
 Bold:
-**Bold Text** with using (** **)
+**Bold Text** with using \*\* \*\*
 
 Italic:
-*Italic Text* with using (* *)
+*Italic Text* with using \* \*
 
 Strikethrough:
-~~Strikethrough~~ with using(~~ ~~)
+~~Strikethrough~~ with using\~~ \~~
 
 Unorderd list:
-* item1 with (*)
-+ item2 with (+)
-- item3 with (-)
+* item1 with \*
++ item2 with \+
+- item3 with \-
 
 Ordered list:
-1. item with using (1.)
+1. item with using \1.
 
 Links:
 [ChatBot](https://www.chatgpt.com) with using \[for display](for URL)
 
 Blockquote:
-> This is a blockquote with using (>)
+> This is a blockquote with using \>
 
 Task list:
-- [ ] for an unchecked box with using (- [ ])
-- [x] for a checked box with using (- [x])
+- [ ] for an unchecked box with using \- \[ ]
+- [x] for a checked box with using \- [x]
 
 Images:
 ![img1](a1.jpg) with using \![alt img](image name with extension)
 
-Horizontal line with using (---):
+Horizontal line with using \---:
 ---
 Hi There
 
