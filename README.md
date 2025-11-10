@@ -21,7 +21,7 @@ Ordered list:
 1. item with using (1.)
 
 Links:
-[ChatBot](https://www.chatgpt.com) with using ([for display](for URL))
+[ChatBot](https://www.chatgpt.com) with using \[for display](for URL)
 
 Blockquote:
 > This is a blockquote with using (>)
@@ -31,7 +31,7 @@ Task list:
 - [x] for a checked box with using (- [x])
 
 Images:
-![img1](a1.jpg) with using (![alt img](image name with extension))
+![img1](a1.jpg) with using \![alt img](image name with extension)
 
 Horizontal line with using (---):
 ---
@@ -57,6 +57,9 @@ Create tables using pipes | and dashes -
 | Row 1    | Data     | Data     |
 | Row 2    | Data     | Data     |
 
-Escaping character with backslash \\:
+Escaping character with backslash \\ in the beggining:
 - \*not italic*
+
+---
+
 - \**not bold**
