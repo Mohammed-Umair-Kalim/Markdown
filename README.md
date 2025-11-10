@@ -42,8 +42,23 @@ Horizontal line:
 Hi There
 
 Code:
-For inline code, use single backticks `code`.
-For code blocks, use triple backticks ```code``` (or indent with 4 spaces).
+# Markdown Code Example
+
+This is a **Markdown** file that demonstrates how to use **inline code** and **code blocks**.
+
+## Inline Code
+
+For example, to print "Hello, World!" in Python, you can write `print("Hello, World!")`.
+
+## Code Block
+
+If you have a larger code snippet, you can use triple backticks to create a code block:
+```python
+def greet():
+    print("Hello, World!")
+    
+greet()
+```
 
 Tables:
 Create tables using pipes | and dashes -
