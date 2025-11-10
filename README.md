@@ -18,7 +18,7 @@ Unorderd list:
 - item3 with \-
 
 Ordered list:
-1. item with using \1.
+1. item with using 1.
 
 Links:
 [ChatBot](https://www.chatgpt.com) with using \[for display](for URL)
