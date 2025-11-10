@@ -31,14 +31,15 @@ Task list:
 - [x] for a checked box
 
 Escaping character:
-\ *not italic* \
-\ **not bold** \
+\*not italic\*
+\**not bold\**
 
 Images:
-![img1](img src="a1.jpg" alt="ai" width="600")
+![img1](a1.jpg)
 
 Horizontal line:
----Hi There
+---
+Hi There
 
 Code:
 For inline code, use single backticks `code`.
