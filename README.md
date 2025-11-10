@@ -62,4 +62,4 @@ Escaping character with backslash \\ in the beggining:
 
 ---
 
-- \**not bold**
+- \*\*not bold\*\*
